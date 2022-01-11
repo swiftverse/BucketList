@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		24254CDD278B1E0000DB6ECA /* ContentView-ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24254CDC278B1E0000DB6ECA /* ContentView-ViewModel.swift */; };
 		243FC9022789B40600BC2942 /* EditView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 243FC9012789B40600BC2942 /* EditView.swift */; };
 		2445021E27886EA400704473 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2445021D27886EA400704473 /* Location.swift */; };
 		248159652786C6DD00B0F6CA /* BucketListApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 248159642786C6DD00B0F6CA /* BucketListApp.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		24254CDC278B1E0000DB6ECA /* ContentView-ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ContentView-ViewModel.swift"; sourceTree = "<group>"; };
 		243FC9012789B40600BC2942 /* EditView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditView.swift; sourceTree = "<group>"; };
 		2445021D27886EA400704473 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		248159612786C6DD00B0F6CA /* BucketList.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BucketList.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -82,6 +84,7 @@
 			isa = PBXGroup;
 			children = (
 				24842D252786E8C400AB88E5 /* FileManager_Extension.swift */,
+				24254CDC278B1E0000DB6ECA /* ContentView-ViewModel.swift */,
 				2445021D27886EA400704473 /* Location.swift */,
 			);
 			path = resources;
@@ -162,6 +165,7 @@
 				243FC9022789B40600BC2942 /* EditView.swift in Sources */,
 				248159652786C6DD00B0F6CA /* BucketListApp.swift in Sources */,
 				2445021E27886EA400704473 /* Location.swift in Sources */,
+				24254CDD278B1E0000DB6ECA /* ContentView-ViewModel.swift in Sources */,
 				24842D262786E8C400AB88E5 /* FileManager_Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
